@@ -8,12 +8,12 @@ const router = express.Router();
 const path = require('path');
 
 //This code exports an Express.js router with two GET endpoints: '/notes' and '/'. When a GET request is received at either endpoint, the corresponding HTML file in the 'public' directory is sent as the response.
-router.get('/notes', (req, res) => {
+router.get('/notes'), (req, res) => {
   res.sendFile(path.join(__dirname, '../public/notes.html'));
-});
+};
 
-router.get('/', (req, res) => {
+router.get('/'), (req, res) => {
   res.sendFile(path.join(__dirname, '../public/index.html'));
-});
+};
 
 module.exports = router;
