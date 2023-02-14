@@ -9,9 +9,7 @@ A note-taker app is a digital tool that enables users to quickly and easily capt
 # Link to disployed application
 https://eddiebuck88-note-taker.herokuapp.com/
 
-
 # Table of Contents
-
 note-taker-db
 Description
 LINK TO DEPLOYED APPLICATION:
@@ -20,11 +18,8 @@ Installation
 User Instruction
 License
 
-
-
 # Installation
 Clone repository from Github, run 'npm i' in terminal.
-
 
 # User Instruction
 Upon opening the Note Taker, the user encounters a landing page with a link to a notes page. By clicking the link, the user reaches a page with current notes listed in the left-hand column, and blank fields for entering a new note's title and text in the right-hand column. Once the user fills in the fields, a Save icon appears on the top navigation bar. Selecting the Save icon saves the new note to the left-hand column. Clicking an existing note in the left-hand column displays the selected note in the right-hand column. Clicking the Write icon creates new, blank fields in the right-hand column for a new note. To delete a saved note, the user clicks the trashcan icon next to it.
