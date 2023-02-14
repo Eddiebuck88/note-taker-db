@@ -10,15 +10,16 @@ A note-taker app is a digital tool that enables users to quickly and easily capt
 https://eddiebuck88-note-taker.herokuapp.com/
 
 # Table of Contents
-note-taker-db
-Description
+
+Description:
 LINK TO DEPLOYED APPLICATION:
-Table of Contents
-Installation
-User Instruction
-License
+Table of Contents:
+Installation:
+User Instruction:
+License:
 
 # Installation
+
 Clone repository from Github, run 'npm i' in terminal.
 
 # User Instruction
